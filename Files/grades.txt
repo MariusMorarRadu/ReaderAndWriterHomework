@@ -13,7 +13,7 @@ Bennett Frieda|Mathematics|7
 Ermingard Tome|Physics|10
 Jannike Lucianv|Computer Science|3
 Neela Amaltheia|Physics|6
-Asim Jeltje|Computer Science|17
+Asim Jeltje|Computer Science|7
 Dulf Siguror|Mathematics|4
 Eilert Mechteld|Mathematics|6
 Storm Lital|Computer Science|9
