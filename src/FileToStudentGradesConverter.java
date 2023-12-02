@@ -15,8 +15,6 @@ public class FileToStudentGradesConverter {
 
         while (scanner.hasNextLine()) {
             String currentLine = scanner.nextLine();
-            //<xml>numele meu<nume>
-            //Ealhstan Saira|Computer Science|8
             String[] parts = currentLine.split("\\|");
             String name = parts[0];
             String discipline = parts[1];
